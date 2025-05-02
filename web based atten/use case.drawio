@@ -1,0 +1,199 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.14">
+  <diagram name="Page-1" id="F475ZTbkkelO9plkm8O6">
+    <mxGraphModel dx="872" dy="568" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WkycodwKERZcxfcikUDK-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;Manage Students&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;container=0;" parent="1" vertex="1">
+          <mxGeometry x="346.2737617554859" y="496.7791454272863" width="94.54545454545455" height="27.586956521739133" as="geometry" />
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;Manage Teachers&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;container=0;" parent="1" vertex="1">
+          <mxGeometry x="346.2737617554859" y="459.99653673163414" width="94.54545454545455" height="27.586956521739133" as="geometry" />
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;Manage Attendances&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;container=0;" parent="1" vertex="1">
+          <mxGeometry x="347" y="536" width="95.82" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;Manage Reports&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;container=0;" parent="1" vertex="1">
+          <mxGeometry x="352.4537617554859" y="578.0043628185907" width="94.54545454545455" height="27.586956521739133" as="geometry" />
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;Mark Attendance&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;container=0;" parent="1" vertex="1">
+          <mxGeometry x="354.99376175548593" y="691.5747976011994" width="94.54545454545455" height="27.586956521739133" as="geometry" />
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;View &amp;amp; Edit Records&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;container=0;" parent="1" vertex="1">
+          <mxGeometry x="352.45" y="728" width="98.55" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;Register/Login&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;container=0;" parent="1" vertex="1">
+          <mxGeometry x="346.2737617554859" y="420.999580209895" width="94.54545454545455" height="27.586956521739133" as="geometry" />
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;Generates Reports&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;container=0;" parent="1" vertex="1">
+          <mxGeometry x="356.87376175548593" y="811.0000149925037" width="94.54545454545455" height="27.586956521739133" as="geometry" />
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-9" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="857" as="sourcePoint" />
+            <mxPoint x="299" y="358" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-10" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Web-Based Student Attendance&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&amp;nbsp;System&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" parent="1" vertex="1">
+          <mxGeometry x="354.99830721003127" y="360.99827586206897" width="207" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-11" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="857" as="sourcePoint" />
+            <mxPoint x="605.27" y="857" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-12" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="605" y="857" as="sourcePoint" />
+            <mxPoint x="603" y="358" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-13" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="299.0010344827586" y="357.99827586206897" as="sourcePoint" />
+            <mxPoint x="603" y="358" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;ADMIN&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;container=0;" parent="1" vertex="1">
+          <mxGeometry x="658.0010344827585" y="542.0021889055472" width="28.363636363636363" height="55.173913043478265" as="geometry" />
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-15" value="&lt;font face=&quot;Times New Roman&quot;&gt;TEACHER&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;container=0;" parent="1" vertex="1">
+          <mxGeometry x="195.0010344827586" y="663.9891454272863" width="28.363636363636363" height="55.173913043478265" as="geometry" />
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;STUDENT&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;container=0;" parent="1" vertex="1">
+          <mxGeometry x="195.00285266457678" y="473.00262368815595" width="28.363636363636363" height="55.173913043478265" as="geometry" />
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;View Attendance&amp;nbsp;&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;container=0;" parent="1" vertex="1">
+          <mxGeometry x="352.45376175548586" y="615.9969715142429" width="94.54545454545455" height="27.586956521739133" as="geometry" />
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-19" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WkycodwKERZcxfcikUDK-2" target="WkycodwKERZcxfcikUDK-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="317.91012539184953" y="593.693928035982" as="sourcePoint" />
+            <mxPoint x="441" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="645" y="565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-20" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WkycodwKERZcxfcikUDK-3" target="WkycodwKERZcxfcikUDK-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440.8192163009404" y="513.3352323838081" as="sourcePoint" />
+            <mxPoint x="440.8192163009404" y="550.1178410794604" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="645" y="565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-22" value="" style="endArrow=none;html=1;rounded=0;exitX=0.009;exitY=0.404;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="WkycodwKERZcxfcikUDK-17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440.8192163009404" y="579.9004497751124" as="sourcePoint" />
+            <mxPoint x="235" y="495" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="WkycodwKERZcxfcikUDK-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440.8192163009404" y="616.6830584707646" as="sourcePoint" />
+            <mxPoint x="234" y="495" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-25" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="WkycodwKERZcxfcikUDK-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="147.72830721003132" y="841.9765367316343" as="sourcePoint" />
+            <mxPoint x="235" y="686" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-27" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="WkycodwKERZcxfcikUDK-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="147.72830721003132" y="768.4113193403298" as="sourcePoint" />
+            <mxPoint x="235" y="686" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-28" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="WkycodwKERZcxfcikUDK-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="355.7283072100313" y="694.8461019490255" as="sourcePoint" />
+            <mxPoint x="235" y="686" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-29" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="WkycodwKERZcxfcikUDK-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="355.7283072100313" y="658.0634932533733" as="sourcePoint" />
+            <mxPoint x="235" y="686" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-46" value="" style="endArrow=none;html=1;rounded=0;exitX=0.964;exitY=0.725;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="WkycodwKERZcxfcikUDK-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440.82" y="616.11" as="sourcePoint" />
+            <mxPoint x="646" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-47" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=classicThin;startFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.996;entryY=0.412;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WkycodwKERZcxfcikUDK-48" target="WkycodwKERZcxfcikUDK-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="496" y="603" as="sourcePoint" />
+            <mxPoint x="446" y="429" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-48" value="&lt;font face=&quot;Times New Roman&quot;&gt;Authentication&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;container=0;" parent="1" vertex="1">
+          <mxGeometry x="510" y="403" width="88" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-49" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;&amp;lt;&amp;lt;includes&amp;gt;&amp;gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-15;" parent="1" vertex="1">
+          <mxGeometry x="428" y="403" width="74" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-50" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=classicThin;startFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="WkycodwKERZcxfcikUDK-57" target="WkycodwKERZcxfcikUDK-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="503.33000000000004" y="619" as="sourcePoint" />
+            <mxPoint x="475.33000000000004" y="676" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-53" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=classicThin;startFill=1;entryX=0;entryY=0.454;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="WkycodwKERZcxfcikUDK-7" target="WkycodwKERZcxfcikUDK-54" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="481" y="441" as="sourcePoint" />
+            <mxPoint x="497" y="449" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-54" value="&lt;font face=&quot;Times New Roman&quot;&gt;Authentication&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Error&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;container=0;" parent="1" vertex="1">
+          <mxGeometry x="505" y="451.58" width="95" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-56" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=30;" parent="1" vertex="1">
+          <mxGeometry x="447" y="434" width="71" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-57" value="&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Times New Roman&quot;&gt;OTP Verification&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;container=0;" parent="1" vertex="1">
+          <mxGeometry x="505.003761755486" y="691.5747976011994" width="94.54545454545455" height="27.586956521739133" as="geometry" />
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-58" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;&amp;lt;&amp;lt;includes&amp;gt;&amp;gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="439.73" y="683" width="74" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-59" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=classicThin;startFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="WkycodwKERZcxfcikUDK-60" target="WkycodwKERZcxfcikUDK-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="502.47" y="797.37" as="sourcePoint" />
+            <mxPoint x="445.47" y="816.37" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-60" value="&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Times New Roman&quot;&gt;Validation&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;container=0;" parent="1" vertex="1">
+          <mxGeometry x="510" y="811" width="92.5" height="27.59" as="geometry" />
+        </mxCell>
+        <mxCell id="WkycodwKERZcxfcikUDK-61" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;&amp;lt;&amp;lt;includes&amp;gt;&amp;gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="439.73" y="803.0000000000001" width="74" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="c0MILc_CR4j5vPO6usCv-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;Submit OTP&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;container=0;" parent="1" vertex="1">
+          <mxGeometry x="352.45" y="654" width="94.55" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="c0MILc_CR4j5vPO6usCv-3" value="" style="endArrow=none;html=1;rounded=0;exitX=0.001;exitY=0.419;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="c0MILc_CR4j5vPO6usCv-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="295.82" y="577.84" as="sourcePoint" />
+            <mxPoint x="234" y="495" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c0MILc_CR4j5vPO6usCv-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;Generates OTPs&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;container=0;" parent="1" vertex="1">
+          <mxGeometry x="354.99376175548593" y="772.0000149925037" width="94.54545454545455" height="27.586956521739133" as="geometry" />
+        </mxCell>
+        <mxCell id="c0MILc_CR4j5vPO6usCv-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="c0MILc_CR4j5vPO6usCv-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="235" y="686" as="sourcePoint" />
+            <mxPoint x="287" y="636" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
